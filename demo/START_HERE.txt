@@ -1,0 +1,72 @@
+GATEWAY SOLUTIONS | NYC RESTAURANT INTELLIGENCE
+Offline demonstration | Prepared October 23, 2026
+
+OPEN THE DEMO
+1. Download and unzip Gateway_Solutions_Offline_Demo.zip.
+2. Open Gateway_Solutions_Demo.html in a desktop browser, such as Chrome,
+   Edge, or Safari. If double-clicking opens an editor, use Open With > Chrome.
+3. Use the navigation to explore Home and the three research tools.
+
+The HTML contains its own code, styles, map, and data. There is no installation,
+account, API key, or server to set up. The core demo works without internet.
+External source links need an internet connection.
+
+Download the file before opening it. Email and cloud-storage previews may
+show a blank page because they do not run interactive HTML. For a presentation,
+use a desktop browser; mobile file-preview apps may also block JavaScript.
+
+SUGGESTED FIVE-MINUTE WALKTHROUGH
+1. Home: introduce the platform and the three questions it helps owners explore.
+2. Market Investigator: switch between Restaurant presence and Weekly news
+   attention, then select Bar chart or Donut chart. Open a news card or the
+   methodology to inspect the evidence.
+3. Location Picker: set the monthly rent budget to $12,000 and keep All boroughs.
+   Select Chinese & dim sum, then click Find neighborhoods: Sunset Park leads.
+   Try Japanese & sushi: Long Island City leads. Try Mexican & tacos: Mott Haven
+   leads. Select map markers and compare neighborhoods with the checkboxes.
+4. Risk Analyzer: choose a restaurant concept and click Analyze my risks.
+   Japanese & sushi brings raw-fish handling into the concept watchlist.
+   Delivery & takeout prioritizes delivery-related notices. Try changing the
+   example wage from $16.50 to $17.00 and rerun the reference calculation.
+5. Ask Gateway: click the lower-right assistant. Ask "Where should I open a
+   sushi restaurant?" followed by "What about Chinese?" The assistant carries
+   the context into its next answer and links to the relevant tool and sources.
+
+WHAT THIS EDITION INCLUDES
+- The existing English design, home page, and three tools.
+- Cuisine percentages, bar and donut charts, and a saved news brief.
+- Fifteen restaurant concepts and eight candidate neighborhoods.
+- An interactive borough map, concept-dependent rankings, and comparison.
+- Concept-specific operating checks, policy filtering, a reference wage-gap
+  calculation, and local keyword screening of pasted notice text.
+- A rule-based research assistant available on every page.
+
+DATA AND LIMITS
+- Restaurant metrics and neighborhood evidence: snapshot captured October 20,
+  2026; the included source-record date is October 19, 2026.
+- Policy feed: fourteen saved notices captured October 20, 2026. Publication
+  dates are not effective dates; this is a limited selection of NYC notices.
+- Curated news brief: five articles covering October 2-8, 2026.
+- Operating reference rules: reviewed October 9, 2026.
+- Restaurant presence and media mentions do not measure customer preference,
+  revenue, or actual demand. Rents and transit scores are illustrative.
+- The assistant uses included data and rules. It is not generative AI and
+  cannot search the web or reliably answer arbitrary questions.
+- Reload buttons read the same saved snapshot. This file has no live feed,
+  background monitoring, daily refresh, or automatic policy-rule updates.
+- Inputs and conversation state reset when the page is reloaded or closed.
+  Questions and pasted notice text are processed locally.
+
+SHARING
+Send the ZIP with these instructions, or send the HTML by itself. The PNG
+is a preview image only. No private database, credentials, or account access
+are included.
+
+This is a separate presentation copy. It has not been deployed to the public
+website and does not change the original project, public URL, access settings,
+or the existing 8:00 AM America/New_York update schedule.
+
+Validation: the included HTML was checked in Chrome through a local preview,
+including the main interactions and a 390-pixel mobile layout. Direct local-
+file launch could not be automated in the checking environment. The file is
+self-contained and has no external runtime resource dependencies.
